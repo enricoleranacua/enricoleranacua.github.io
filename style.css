@@ -84,10 +84,10 @@ body {
 .cvsection {
     background-color: rgb(234, 234, 234);
     width: 80%;
-    border: 1px solid rgb(4, 110, 143);
     padding: 20px; 
     margin: auto;
     margin-top: 20px;
+    box-shadow: 2px 2px 5px 2px lightgray;
   }
 
   .cvsection h2 {
