@@ -80,3 +80,11 @@ body {
     height: 100%;
     background-color:rgba(4, 76, 129, 0.775);
 }
+
+.cvsection {
+    background-color: lightgrey;
+    width: 100%;
+    border: 2px solid rgb(4, 110, 143);
+    padding: 20;
+    margin: 20px;
+  }
